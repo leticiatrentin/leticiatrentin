@@ -11,11 +11,11 @@ src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gi
 </div> 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leticiatrentin&show_icons=true&count_private=true&hide_border=true&title_color=5D91A6&icon_color=5D91A6&text_color=5D91A6&bg_color=0d1117" alt="Leticia Trentin github stats" /> 
-  <img width="50%" height="199px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiatrentin&layout=compact&hide_border=true&title_color=5D91A6&text_color=5D91A6&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leticiatrentin&show_icons=true&count_private=true&hide_border=true&title_color=5D91A6&icon_color=5D91A6&text_color=FFFFFF&bg_color=0d1117" alt="Leticia Trentin github stats" /> 
+  <img width="50%" height="199px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiatrentin&layout=compact&hide_border=true&title_color=5D91A6&text_color=FFFFFF&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leticiatrentin&bg_color=0d1117&color=00bfbf&line=5D91A6&&point=5D91A6&&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leticiatrentin&bg_color=0d1117&color=00bfbf&line=5D91A6&&point=FFFFFF&&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  
 ### Main skills:
