@@ -5,7 +5,6 @@ src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gi
 <a href="https://www.instagram.com/lezzmt/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=8083BF"></a>
 <a href="https://www.linkedin.com/in/letíciatrentin/" alt="Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=C4DDF2"></a>
 <a href="mailto:leticiamtrentin@gmail.com" alt="Contact me"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=8083BF"></a>
-<a href=https://wa.me/55+55+999599267"><img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=WhatsApp&logoColor=C4DDF2"></a>
 <a href="https://github.com/leticiatrentin"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=8083BF"></a>
 
 </div> 
