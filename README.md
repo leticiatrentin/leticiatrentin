@@ -40,4 +40,6 @@ src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gi
 ![python](https://img.shields.io/badge/python-0D1117?style=for-the-badge&logo=&logolor=FFD700)&nbsp;
 </div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=leticiatrentin&label=Profile%20views&color=0e75b6&style=flat" alt="leticiatrentin" /> </
+
 
