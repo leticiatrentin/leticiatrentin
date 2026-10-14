@@ -41,5 +41,3 @@ Based in Rio Grande do Sul, Brazil.
 ![ui/ux](https://img.shields.io/badge/UI%2FUX-0D1117?style=for-the-badge)&nbsp;
 
 </div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leticiatrentin&label=Profile%20views&color=0e75b6&style=flat" alt="leticiatrentin" /> </p>
