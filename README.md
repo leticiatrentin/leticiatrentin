@@ -14,7 +14,6 @@ src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gi
   <img width="50%" height="199px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiatrentin&layout=compact&hide_border=true&title_color=ADB5EF&text_color=FFFFFF&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leticiatrentin&bg_color=0d1117&color=ADB5EF&line=5D91A6&&point=FFFFFF&&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ###
